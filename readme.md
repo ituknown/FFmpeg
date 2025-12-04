@@ -32,7 +32,7 @@
 
 [ffmpeg 视频添加字幕](ffmpeg%20进阶使用/ffmpeg%20视频添加字幕.md)
 
-[ffmpeg 视频添加封面](ffmpeg%20进阶使用/ffmpeg%20视频添加封面.md)
+[ffmpeg 流媒体添加封面](ffmpeg%20进阶使用/ffmpeg%20流媒体添加封面.md)
 
 [ffmpeg 提取音视频及字幕](ffmpeg%20进阶使用/ffmpeg%20提取音视频及字幕.md)
 
